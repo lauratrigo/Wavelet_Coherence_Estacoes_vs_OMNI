@@ -94,59 +94,59 @@ Os gráficos serão salvos em images/.
 </div>
 <div align="center">
   <h4><strong>foF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_foF2_SYMH_Araguatins.png" alt="WCOH foF2 × SYM-H Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_SYMH_ARG.png" alt="WCOH foF2 × SYM-H Araguatins" style="width:80%; max-width:900px;">
 </div>
 
 <!-- h'F × OMNI -->
 <div align="center">
   <h4><strong>h'F × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hF_Bz_Araguatins.png" alt="WCOH hF × Bz Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Bz_ARG.png" alt="WCOH hF × Bz Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hF_Vsw_Araguatins.png" alt="WCOH hF × Vsw Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Vsw_ARG.png" alt="WCOH hF × Vsw Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Density</strong></h4>
-  <img src="images/WCOH_ARG_hF_Density_Araguatins.png" alt="WCOH hF × Density Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Density_ARG.png" alt="WCOH hF × Density Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hF_Ey_Araguatins.png" alt="WCOH hF × Ey Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Ey_ARG.png" alt="WCOH hF × Ey Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × AE</strong></h4>
-  <img src="images/WCOH_ARG_hF_AE_Araguatins.png" alt="WCOH hF × AE Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_AE_ARG.png" alt="WCOH hF × AE Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hF_SYMH_Araguatins.png" alt="WCOH hF × SYM-H Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_SYMH_ARG.png" alt="WCOH hF × SYM-H Araguatins" style="width:80%; max-width:900px;">
 </div>
 
 <!-- hmF2 × OMNI -->
 <div align="center">
   <h4><strong>hmF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Bz_Araguatins.png" alt="WCOH hmF2 × Bz Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Bz_ARG.png" alt="WCOH hmF2 × Bz Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Vsw_Araguatins.png" alt="WCOH hmF2 × Vsw Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Vsw_ARG.png" alt="WCOH hmF2 × Vsw Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Density_Araguatins.png" alt="WCOH hmF2 × Density Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Density_ARG.png" alt="WCOH hmF2 × Density Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Ey_Araguatins.png" alt="WCOH hmF2 × Ey Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Ey_ARG.png" alt="WCOH hmF2 × Ey Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_AE_Araguatins.png" alt="WCOH hmF2 × AE Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_AE_ARG.png" alt="WCOH hmF2 × AE Araguatins" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_SYMH_Araguatins.png" alt="WCOH hmF2 × SYM-H Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_SYMH_ARG.png" alt="WCOH hmF2 × SYM-H Araguatins" style="width:80%; max-width:900px;">
 </div>
 
 ---
@@ -156,79 +156,79 @@ Os gráficos serão salvos em images/.
 <!-- foF2 × OMNI -->
 <div align="center">
   <h4><strong>foF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Bz_Jatai.png" alt="WCOH foF2 × Bz Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Bz_JAT.png" alt="WCOH foF2 × Bz Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Vsw_Jatai.png" alt="WCOH foF2 × Vsw Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Vsw_JAT.png" alt="WCOH foF2 × Vsw Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Density_Jatai.png" alt="WCOH foF2 × Density Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Density_JAT.png" alt="WCOH foF2 × Density Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Ey_Jatai.png" alt="WCOH foF2 × Ey Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Ey_JAT.png" alt="WCOH foF2 × Ey Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_foF2_AE_Jatai.png" alt="WCOH foF2 × AE Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_AE_JAT.png" alt="WCOH foF2 × AE Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_foF2_SYMH_Jatai.png" alt="WCOH foF2 × SYM-H Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_SYMH_JAT.png" alt="WCOH foF2 × SYM-H Jatai" style="width:80%; max-width:900px;">
 </div>
 
 <!-- h'F × OMNI -->
 <div align="center">
   <h4><strong>h'F × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hF_Bz_Jatai.png" alt="WCOH hF × Bz Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Bz_JAT.png" alt="WCOH hF × Bz Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hF_Vsw_Jatai.png" alt="WCOH hF × Vsw Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Vsw_JAT.png" alt="WCOH hF × Vsw Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Density</strong></h4>
-  <img src="images/WCOH_ARG_hF_Density_Jatai.png" alt="WCOH hF × Density Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Density_JAT.png" alt="WCOH hF × Density Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hF_Ey_Jatai.png" alt="WCOH hF × Ey Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Ey_JAT.png" alt="WCOH hF × Ey Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × AE</strong></h4>
-  <img src="images/WCOH_ARG_hF_AE_Jatai.png" alt="WCOH hF × AE Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_AE_JAT.png" alt="WCOH hF × AE Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hF_SYMH_Jatai.png" alt="WCOH hF × SYM-H Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_SYMH_JAT.png" alt="WCOH hF × SYM-H Jatai" style="width:80%; max-width:900px;">
 </div>
 
 <!-- hmF2 × OMNI -->
 <div align="center">
   <h4><strong>hmF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Bz_Jatai.png" alt="WCOH hmF2 × Bz Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Bz_JAT.png" alt="WCOH hmF2 × Bz Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Vsw_Jatai.png" alt="WCOH hmF2 × Vsw Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Vsw_JAT.png" alt="WCOH hmF2 × Vsw Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Density_Jatai.png" alt="WCOH hmF2 × Density Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Density_JAT.png" alt="WCOH hmF2 × Density Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Ey_Jatai.png" alt="WCOH hmF2 × Ey Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Ey_JAT.png" alt="WCOH hmF2 × Ey Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_AE_Jatai.png" alt="WCOH hmF2 × AE Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_AE_JAT.png" alt="WCOH hmF2 × AE Jatai" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_SYMH_Jatai.png" alt="WCOH hmF2 × SYM-H Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_SYMH_JAT.png" alt="WCOH hmF2 × SYM-H Jatai" style="width:80%; max-width:900px;">
 </div>
 
 ---
@@ -238,33 +238,33 @@ Os gráficos serão salvos em images/.
 <!-- foF2 × OMNI -->
 <div align="center">
   <h4><strong>foF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Bz_SaoJoseDosCampos.png" alt="WCOH foF2 × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Bz_SJC.png" alt="WCOH foF2 × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Vsw_SaoJoseDosCampos.png" alt="WCOH foF2 × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Vsw_SJC.png" alt="WCOH foF2 × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Density_SaoJoseDosCampos.png" alt="WCOH foF2 × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Density_SJC.png" alt="WCOH foF2 × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Ey_SaoJoseDosCampos.png" alt="WCOH foF2 × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_Ey_SJC.png" alt="WCOH foF2 × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_foF2_AE_SaoJoseDosCampos.png" alt="WCOH foF2 × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_AE_SJC.png" alt="WCOH foF2 × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>foF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_foF2_SYMH_SaoJoseDosCampos.png" alt="WCOH foF2 × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_SYMH_SJC.png" alt="WCOH foF2 × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 
 <!-- h'F × OMNI -->
 <div align="center">
   <h4><strong>h'F × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hF_Bz_SaoJoseDosCampos.png" alt="WCOH hF × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Bz_SJC.png" alt="WCOH hF × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Vsw</strong></h4>
