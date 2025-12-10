@@ -45,7 +45,6 @@ wcoh_arg/
 └── README.md
 ```
 
-
 ---
 
 ## ⚙️ Como Executar
@@ -66,6 +65,8 @@ run wav_sjc.m
 run wav_jat.m
 ```
 Os gráficos serão salvos em images/.
+
+---
 
 ## 📈 Gráficos Gerados
 
@@ -268,53 +269,52 @@ Os gráficos serão salvos em images/.
 </div>
 <div align="center">
   <h4><strong>h'F × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hF_Vsw_SaoJoseDosCampos.png" alt="WCOH hF × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Vsw_SJC.png" alt="WCOH hF × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Density</strong></h4>
-  <img src="images/WCOH_ARG_hF_Density_SaoJoseDosCampos.png" alt="WCOH hF × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Density_SJC.png" alt="WCOH hF × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hF_Ey_SaoJoseDosCampos.png" alt="WCOH hF × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_Ey_SJC.png" alt="WCOH hF × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × AE</strong></h4>
-  <img src="images/WCOH_ARG_hF_AE_SaoJoseDosCampos.png" alt="WCOH hF × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_AE_SJC.png" alt="WCOH hF × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>h'F × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hF_SYMH_SaoJoseDosCampos.png" alt="WCOH hF × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_SYMH_SJC.png" alt="WCOH hF × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 
 <!-- hmF2 × OMNI -->
 <div align="center">
   <h4><strong>hmF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Bz_SaoJoseDosCampos.png" alt="WCOH hmF2 × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Bz_SJC.png" alt="WCOH hmF2 × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Vsw_SaoJoseDosCampos.png" alt="WCOH hmF2 × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Vsw_SJC.png" alt="WCOH hmF2 × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Density_SaoJoseDosCampos.png" alt="WCOH hmF2 × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Density_SJC.png" alt="WCOH hmF2 × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Ey_SaoJoseDosCampos.png" alt="WCOH hmF2 × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_Ey_SJC.png" alt="WCOH hmF2 × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_AE_SaoJoseDosCampos.png" alt="WCOH hmF2 × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_AE_SJC.png" alt="WCOH hmF2 × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 <div align="center">
   <h4><strong>hmF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_SYMH_SaoJoseDosCampos.png" alt="WCOH hmF2 × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_SYMH_SJC.png" alt="WCOH hmF2 × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
 </div>
 
-
-
+---
 
 ## 🤝 Agradecimentos
 
