@@ -33,9 +33,11 @@ O objetivo é investigar o acoplamento espectral entre a ionosfera e parâmetros
 ## 📂 Estrutura do Projeto
 
 ```
-wcoh_arg/
+Wavelet_Coherence_Estacoes_vs_OMNI/
 ├── dados/
 │ ├── mediasionosfericasARG.mat
+│ ├── mediasionosfericasJAT.mat
+│ ├── mediasionosfericasSJC.mat
 │ └── dados_Omni_Tratados.txt
 ├── figuras_wcoh_arg/
 │ ├── WCOH_foF2_Bz.png
