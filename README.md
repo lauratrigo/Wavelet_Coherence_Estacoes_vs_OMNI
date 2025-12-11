@@ -1,4 +1,4 @@
-# 🌐 Coerência Wavelet Ionosfera × Parâmetros OMNI – Agosto 2017
+# 🛰️ Coerência Wavelet Ionosfera × Parâmetros OMNI – Agosto 2017
 
 Este repositório contém scripts MATLAB para calcular a **Coerência Wavelet Contínua (WCOH)** entre parâmetros **ionosféricos** e **parâmetros solares do OMNI** nas estações **Araguatins (TO), Jataí (GO) e São José dos Campos (SP)** durante **agosto de 2017**.
 
