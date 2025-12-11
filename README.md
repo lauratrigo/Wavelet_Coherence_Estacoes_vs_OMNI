@@ -74,248 +74,310 @@ Os gráficos serão salvos em images/.
 
 ## 📈 Gráficos Gerados
 
-### Araguatins (TO)
+---
 
-<!-- foF2 × OMNI -->
-<div align="center">
-  <h4><strong>foF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Bz_ARG.png" alt="WCOH foF2 × Bz Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Vsw_ARG.png" alt="WCOH foF2 × Vsw Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Density_ARG.png" alt="WCOH foF2 × Density Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Ey_ARG.png" alt="WCOH foF2 × Ey Araguatins" style="width:80%; max-width:900px;">
-</div>
+# Araguatins (TO)
+
+### foF2 × OMNI
 <div align="center">
   <h4><strong>foF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_foF2_AE_ARG.png" alt="WCOH foF2 × AE Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_AE_(nT).png">
 </div>
+
+<div align="center">
+  <h4><strong>foF2 × Bz</strong></h4>
+  <img src="images/WCOH_ARG_foF2_Bz_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Density</strong></h4>
+  <img src="images/WCOH_ARG_foF2_Density_(n_cc).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Ey</strong></h4>
+  <img src="images/WCOH_ARG_foF2_E_(mV_m).png">
+</div>
+
 <div align="center">
   <h4><strong>foF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_foF2_SYMH_ARG.png" alt="WCOH foF2 × SYM-H Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_foF2_SYM_H_(nT).png">
 </div>
 
-<!-- h'F × OMNI -->
 <div align="center">
-  <h4><strong>h'F × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hF_Bz_ARG.png" alt="WCOH hF × Bz Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hF_Vsw_ARG.png" alt="WCOH hF × Vsw Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Density</strong></h4>
-  <img src="images/WCOH_ARG_hF_Density_ARG.png" alt="WCOH hF × Density Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hF_Ey_ARG.png" alt="WCOH hF × Ey Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × AE</strong></h4>
-  <img src="images/WCOH_ARG_hF_AE_ARG.png" alt="WCOH hF × AE Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hF_SYMH_ARG.png" alt="WCOH hF × SYM-H Araguatins" style="width:80%; max-width:900px;">
-</div>
-
-<!-- hmF2 × OMNI -->
-<div align="center">
-  <h4><strong>hmF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Bz_ARG.png" alt="WCOH hmF2 × Bz Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Vsw_ARG.png" alt="WCOH hmF2 × Vsw Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Density_ARG.png" alt="WCOH hmF2 × Density Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Ey_ARG.png" alt="WCOH hmF2 × Ey Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_AE_ARG.png" alt="WCOH hmF2 × AE Araguatins" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_SYMH_ARG.png" alt="WCOH hmF2 × SYM-H Araguatins" style="width:80%; max-width:900px;">
+  <h4><strong>foF2 × Vsw</strong></h4>
+  <img src="images/WCOH_ARG_foF2_Vsw_(km_s).png">
 </div>
 
 ---
 
-### Jataí (GO)
-
-<!-- foF2 × OMNI -->
-<div align="center">
-  <h4><strong>foF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Bz_JAT.png" alt="WCOH foF2 × Bz Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Vsw_JAT.png" alt="WCOH foF2 × Vsw Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Density_JAT.png" alt="WCOH foF2 × Density Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Ey_JAT.png" alt="WCOH foF2 × Ey Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_foF2_AE_JAT.png" alt="WCOH foF2 × AE Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_foF2_SYMH_JAT.png" alt="WCOH foF2 × SYM-H Jatai" style="width:80%; max-width:900px;">
-</div>
-
-<!-- h'F × OMNI -->
-<div align="center">
-  <h4><strong>h'F × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hF_Bz_JAT.png" alt="WCOH hF × Bz Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hF_Vsw_JAT.png" alt="WCOH hF × Vsw Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Density</strong></h4>
-  <img src="images/WCOH_ARG_hF_Density_JAT.png" alt="WCOH hF × Density Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hF_Ey_JAT.png" alt="WCOH hF × Ey Jatai" style="width:80%; max-width:900px;">
-</div>
+### h'F × OMNI
 <div align="center">
   <h4><strong>h'F × AE</strong></h4>
-  <img src="images/WCOH_ARG_hF_AE_JAT.png" alt="WCOH hF × AE Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hF_SYMH_JAT.png" alt="WCOH hF × SYM-H Jatai" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hF_AE_(nT).png">
 </div>
 
-<!-- hmF2 × OMNI -->
 <div align="center">
-  <h4><strong>hmF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Bz_JAT.png" alt="WCOH hmF2 × Bz Jatai" style="width:80%; max-width:900px;">
+  <h4><strong>h'F × Bz</strong></h4>
+  <img src="images/WCOH_ARG_hF_Bz_(nT).png">
 </div>
+
 <div align="center">
-  <h4><strong>hmF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Vsw_JAT.png" alt="WCOH hmF2 × Vsw Jatai" style="width:80%; max-width:900px;">
+  <h4><strong>h'F × Density</strong></h4>
+  <img src="images/WCOH_ARG_hF_Density_(n_cc).png">
 </div>
+
 <div align="center">
-  <h4><strong>hmF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Density_JAT.png" alt="WCOH hmF2 × Density Jatai" style="width:80%; max-width:900px;">
+  <h4><strong>h'F × Ey</strong></h4>
+  <img src="images/WCOH_ARG_hF_E_(mV_m).png">
 </div>
+
 <div align="center">
-  <h4><strong>hmF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Ey_JAT.png" alt="WCOH hmF2 × Ey Jatai" style="width:80%; max-width:900px;">
+  <h4><strong>h'F × SYM-H</strong></h4>
+  <img src="images/WCOH_ARG_hF_SYM_H_(nT).png">
 </div>
+
 <div align="center">
-  <h4><strong>hmF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_AE_JAT.png" alt="WCOH hmF2 × AE Jatai" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_SYMH_JAT.png" alt="WCOH hmF2 × SYM-H Jatai" style="width:80%; max-width:900px;">
+  <h4><strong>h'F × Vsw</strong></h4>
+  <img src="images/WCOH_ARG_hF_Vsw_(km_s).png">
 </div>
 
 ---
 
-### São José dos Campos (SP)
-
-<!-- foF2 × OMNI -->
-<div align="center">
-  <h4><strong>foF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Bz_SJC.png" alt="WCOH foF2 × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Vsw_SJC.png" alt="WCOH foF2 × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Density_SJC.png" alt="WCOH foF2 × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_foF2_Ey_SJC.png" alt="WCOH foF2 × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_foF2_AE_SJC.png" alt="WCOH foF2 × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>foF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_foF2_SYMH_SJC.png" alt="WCOH foF2 × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-
-<!-- h'F × OMNI -->
-<div align="center">
-  <h4><strong>h'F × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hF_Bz_SJC.png" alt="WCOH hF × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hF_Vsw_SJC.png" alt="WCOH hF × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Density</strong></h4>
-  <img src="images/WCOH_ARG_hF_Density_SJC.png" alt="WCOH hF × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hF_Ey_SJC.png" alt="WCOH hF × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × AE</strong></h4>
-  <img src="images/WCOH_ARG_hF_AE_SJC.png" alt="WCOH hF × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>h'F × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hF_SYMH_SJC.png" alt="WCOH hF × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-
-<!-- hmF2 × OMNI -->
-<div align="center">
-  <h4><strong>hmF2 × Bz</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Bz_SJC.png" alt="WCOH hmF2 × Bz SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × Vsw</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Vsw_SJC.png" alt="WCOH hmF2 × Vsw SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × Density</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Density_SJC.png" alt="WCOH hmF2 × Density SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
-<div align="center">
-  <h4><strong>hmF2 × Ey</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_Ey_SJC.png" alt="WCOH hmF2 × Ey SaoJoseDosCampos" style="width:80%; max-width:900px;">
-</div>
+### hmF2 × OMNI
 <div align="center">
   <h4><strong>hmF2 × AE</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_AE_SJC.png" alt="WCOH hmF2 × AE SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_AE_(nT).png">
 </div>
+
+<div align="center">
+  <h4><strong>hmF2 × Bz</strong></h4>
+  <img src="images/WCOH_ARG_hmF2_Bz_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Density</strong></h4>
+  <img src="images/WCOH_ARG_hmF2_Density_(n_cc).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Ey</strong></h4>
+  <img src="images/WCOH_ARG_hmF2_E_(mV_m).png">
+</div>
+
 <div align="center">
   <h4><strong>hmF2 × SYM-H</strong></h4>
-  <img src="images/WCOH_ARG_hmF2_SYMH_SJC.png" alt="WCOH hmF2 × SYM-H SaoJoseDosCampos" style="width:80%; max-width:900px;">
+  <img src="images/WCOH_ARG_hmF2_SYM_H_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Vsw</strong></h4>
+  <img src="images/WCOH_ARG_hmF2_Vsw_(km_s).png">
+</div>
+
+---
+
+# Jataí (GO)
+
+### foF2 × OMNI
+<div align="center">
+  <h4><strong>foF2 × AE</strong></h4>
+  <img src="images/WCOH_JAT_foF2_AE_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Bz</strong></h4>
+  <img src="images/WCOH_JAT_foF2_Bz_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Ey</strong></h4>
+  <img src="images/WCOH_JAT_foF2_E_(mV_m).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × SYM-H</strong></h4>
+  <img src="images/WCOH_JAT_foF2_SYM_H_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Vsw</strong></h4>
+  <img src="images/WCOH_JAT_foF2_Vsw_(km_s).png">
+</div>
+
+---
+
+### h'F × OMNI
+<div align="center">
+  <h4><strong>h'F × AE</strong></h4>
+  <img src="images/WCOH_JAT_hF_AE_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Bz</strong></h4>
+  <img src="images/WCOH_JAT_hF_Bz_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Density</strong></h4>
+  <img src="images/WCOH_JAT_hF_Density_(n_cc).png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Ey</strong></h4>
+  <img src="images/WCOH_JAT_hF_E_(mV_m).png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × SYM-H</strong></h4>
+  <img src="images/WCOH_JAT_hF_SYM_H_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Vsw</strong></h4>
+  <img src="images/WCOH_JAT_hF_Vsw_(km_s).png">
+</div>
+
+---
+
+### hmF2 × OMNI
+<div align="center">
+  <h4><strong>hmF2 × AE</strong></h4>
+  <img src="images/WCOH_JAT_hmF2_AE_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Bz</strong></h4>
+  <img src="images/WCOH_JAT_hmF2_Bz_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Density</strong></h4>
+  <img src="images/WCOH_JAT_hmF2_Density_(n_cc).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Ey</strong></h4>
+  <img src="images/WCOH_JAT_hmF2_E_(mV_m).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × SYM-H</strong></h4>
+  <img src="images/WCOH_JAT_hmF2_SYM_H_(nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Vsw</strong></h4>
+  <img src="images/WCOH_JAT_hmF2_Vsw_(km_s).png">
+</div>
+
+---
+
+# São José dos Campos (SP)
+
+### foF2 × OMNI
+
+<div align="center">
+  <h4><strong>foF2 × AE</strong></h4>
+  <img src="images/WCOH_SJC_foF2_AE__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Bz</strong></h4>
+  <img src="images/WCOH_SJC_foF2_Bz (nT).png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Bz (alt)</strong></h4>
+  <img src="images/WCOH_SJC_foF2_Bz__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Density</strong></h4>
+  <img src="images/WCOH_SJC_foF2_Density__n_cc_.png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Ey</strong></h4>
+  <img src="images/WCOH_SJC_foF2_E__mV_m_.png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × SYM-H</strong></h4>
+  <img src="images/WCOH_SJC_foF2_SYM_H__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>foF2 × Vsw</strong></h4>
+  <img src="images/WCOH_SJC_foF2_Vsw__km_s_.png">
+</div>
+
+---
+
+### h'F × OMNI
+
+<div align="center">
+  <h4><strong>h'F × AE</strong></h4>
+  <img src="images/WCOH_SJC_h_F_AE__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Bz</strong></h4>
+  <img src="images/WCOH_SJC_h_F_Bz__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Density</strong></h4>
+  <img src="images/WCOH_SJC_h_F_Density__n_cc_.png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Ey</strong></h4>
+  <img src="images/WCOH_SJC_h_F_E__mV_m_.png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × SYM-H</strong></h4>
+  <img src="images/WCOH_SJC_h_F_SYM_H__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>h'F × Vsw</strong></h4>
+  <img src="images/WCOH_SJC_h_F_Vsw__km_s_.png">
+</div>
+
+---
+
+### hmF2 × OMNI
+
+<div align="center">
+  <h4><strong>hmF2 × AE</strong></h4>
+  <img src="images/WCOH_SJC_hmF2_AE__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Bz</strong></h4>
+  <img src="images/WCOH_SJC_hmF2_Bz__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Density</strong></h4>
+  <img src="images/WCOH_SJC_hmF2_Density__n_cc_.png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Ey</strong></h4>
+  <img src="images/WCOH_SJC_hmF2_E__mV_m_.png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × SYM-H</strong></h4>
+  <img src="images/WCOH_SJC_hmF2_SYM_H__nT_.png">
+</div>
+
+<div align="center">
+  <h4><strong>hmF2 × Vsw</strong></h4>
+  <img src="images/WCOH_SJC_hmF2_Vsw__km_s_.png">
 </div>
 
 ---
