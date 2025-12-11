@@ -1,6 +1,6 @@
-# 🌐 Coerência Wavelet Ionosfera × Parâmetros Solares – ARG – Agosto 2017
+# 🌐 Coerência Wavelet Ionosfera × Parâmetros OMNI – Agosto 2017
 
-Este repositório contém scripts MATLAB para calcular a **Coerência Wavelet Contínua (WCOH)** entre parâmetros **ionosféricos** e **parâmetros solares do OMNI** nas estações **Araguatins (TO), Palmas (TO) e São Luís (MA)** durante **agosto de 2017**.
+Este repositório contém scripts MATLAB para calcular a **Coerência Wavelet Contínua (WCOH)** entre parâmetros **ionosféricos** e **parâmetros solares do OMNI** nas estações **Araguatins (TO), Jataí (GO) e São José dos Campos (SP)** durante **agosto de 2017**.
 
 O objetivo é investigar o acoplamento espectral entre a ionosfera e parâmetros do vento solar e índices geomagnéticos.
 
@@ -41,7 +41,9 @@ wcoh_arg/
 │ ├── WCOH_foF2_Bz.png
 │ ├── WCOH_hF_Vsw.png
 │ └── ...
-├── wcoherence_3estacoes.m
+├── wav_sjc.m
+├── wav_jat.m
+├── wav_arg.m
 └── README.md
 ```
 
